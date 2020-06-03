@@ -1,0 +1,5 @@
+name: anaconda-client-env
+channels:
+  - defaults
+dependencies:
+  - flake8
