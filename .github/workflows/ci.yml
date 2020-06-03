@@ -1,3 +1,6 @@
+name: CI
+on: [push]
+
 jobs:
   example-3:
     name: Ex3 Linux
